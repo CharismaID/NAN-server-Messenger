@@ -12,4 +12,4 @@ Lorem upsui
 Но потом переделать "чат" в мульти
 
 ### Creators
-![Creators](./me_and_the_boys.png)
+![Creators](./me_and_the_boys.jpg)
