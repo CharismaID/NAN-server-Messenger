@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NAN-server-Messenger/1.0.0": {
+        "runtime": {
+          "NAN-server-Messenger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NAN-server-Messenger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

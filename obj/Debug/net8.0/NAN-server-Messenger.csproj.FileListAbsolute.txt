@@ -1,0 +1,15 @@
+/home/amadeus/coding/NAN-server-Messenger/bin/Debug/net8.0/NAN-server-Messenger
+/home/amadeus/coding/NAN-server-Messenger/bin/Debug/net8.0/NAN-server-Messenger.deps.json
+/home/amadeus/coding/NAN-server-Messenger/bin/Debug/net8.0/NAN-server-Messenger.runtimeconfig.json
+/home/amadeus/coding/NAN-server-Messenger/bin/Debug/net8.0/NAN-server-Messenger.dll
+/home/amadeus/coding/NAN-server-Messenger/bin/Debug/net8.0/NAN-server-Messenger.pdb
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.GeneratedMSBuildEditorConfig.editorconfig
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.AssemblyInfoInputs.cache
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.AssemblyInfo.cs
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.csproj.CoreCompileInputs.cache
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.sourcelink.json
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.dll
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/refint/NAN-server-Messenger.dll
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.pdb
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/NAN-server-Messenger.genruntimeconfig.cache
+/home/amadeus/coding/NAN-server-Messenger/obj/Debug/net8.0/ref/NAN-server-Messenger.dll
