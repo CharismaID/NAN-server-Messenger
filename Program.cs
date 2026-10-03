@@ -1,4 +1,4 @@
-﻿using Nan.Client;
+﻿using Nan.Peer;
 using System.Net;
 
 class Program
@@ -27,17 +27,20 @@ class Program
 		}
 
 		var endpoint = new IPEndPoint( addr, port );
-        Client c = new Client( endpoint );
+        var c = new DeviceSocket( endpoint );
         
+		// start reader
         if( args.Length == 0 ) 
         {
-            Console.WriteLine(c.ReceiveMessage());
+			var contact = c.WaitForContact();
+            Console.WriteLine( contact.ReceiveMessage() );
         }
+		// else start writer
         else 
         {
-			var contact = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 12346);
-			c.Connect( contact );
-            c.SendMessage("123");
+			endpoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 12346);
+			var contact = new Contact(endpoint);
+            contact.SendMessage("123");
         }
     }
 }
